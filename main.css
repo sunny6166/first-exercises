@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+}
+  
+
+.container {
+    height: 100%;
+    width: 100%;
+}
+.logo 
+   {
+    position: relative;
+    padding: 22%;
+    background-image:url("Display/../../images/apple-pie.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   }
+.log {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+ }
+p {
+    font-size: 20px;
+    margin:2% 20%;
+  }
+
+.contain {
+    margin: 0 20%;
+  }
+.recipe-info {
+   
+   margin-left: 30% ;
+  }
+  .cooking-info {
+    margin-left: 15%;
+  }
